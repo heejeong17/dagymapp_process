@@ -29,13 +29,13 @@ a{
  }
 .prototype{
     margin: auto ;
-    margin-top: 3460px ;
+    margin-top: 3450px ;
     position: absolute ;
     left: 50%;
     transform: translateX(-50%);
     background-image: url(../img/bg.gif);
-    width: 340px ;
-    height: 670px ;
+    width: 337px ;
+    height: 677px ;
     background-repeat: no-repeat;
     background-size: cover ;
     background-position: center ;
