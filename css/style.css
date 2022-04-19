@@ -27,10 +27,16 @@ a{
      margin: auto ;
      position: relative ;
  }
- video{
+.prototype{
     margin: auto ;
     margin-top: 3460px ;
     position: absolute ;
     left: 50%;
     transform: translateX(-50%);
+    background-image: url(../img/bg.gif);
+    width: 340px ;
+    height: 670px ;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position: center ;
  }
